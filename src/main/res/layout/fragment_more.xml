@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:padding="16dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:id="@+id/btn_categories"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Manage categories"
+            android:layout_marginBottom="8dp" />
+
+        <Button
+            android:id="@+id/btn_accounts"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Manage accounts"
+            android:layout_marginBottom="8dp" />
+
+        <Button
+            android:id="@+id/btn_currency"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Set currency"
+            android:layout_marginBottom="8dp" />
+
+        <Button
+            android:id="@+id/btn_export"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Export to CSV"
+            android:layout_marginBottom="8dp" />
+
+        <Button
+            android:id="@+id/btn_about"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="About" />
+    </LinearLayout>
+</ScrollView>
