@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#2C5F2D</color>
+    <color name="primary_dark">#1B5E20</color>
+    <color name="accent">#97BC62</color>
+
+    <color name="on_primary">#FFFFFF</color>
+    <color name="primary_container">#B8E0B0</color>
+    <color name="on_primary_container">#0A2A0C</color>
+
+    <color name="secondary">#4C6A4D</color>
+    <color name="secondary_container">#CDEAC9</color>
+    <color name="on_secondary_container">#16341A</color>
+
+    <color name="nav_unselected">#6E796D</color>
+    <color name="white">#FFFFFF</color>
+
+</resources>
